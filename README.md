@@ -28,7 +28,6 @@ cd ../frontend
 npm install
 
 MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
 
 # Start backend server
 cd backend
