@@ -37,9 +37,6 @@ npm run dev
 cd ../frontend
 npm start
 
-##Usage
-Visit http://localhost:5000 to view the website.
-
 ##Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
