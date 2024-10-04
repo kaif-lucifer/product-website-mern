@@ -30,5 +30,3 @@ app.listen(PORT, () => {
 })
 
 export default app;
-
-// EVTCjdDZymPAn7Cx
